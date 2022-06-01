@@ -60,5 +60,5 @@ def culc_lcd(number):
     return rez_str
 
 
-number = input()
+number = input("Enter your number anl press ENTER: ")
 print(culc_lcd(number))
